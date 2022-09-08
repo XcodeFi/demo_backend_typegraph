@@ -1,0 +1,7 @@
+package-lock.json
+node_modules/
+yarn.lock
+dist/
+src/schema.gql
+static/
+src/schema.gql
